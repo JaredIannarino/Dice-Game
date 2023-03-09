@@ -32,7 +32,7 @@
     align-items: center;
     justify-content: center;
     margin: 0;
-    height: 75vh;
+    height: 77.5vh;
     width: 100%;
   }
   
@@ -43,7 +43,7 @@
   
   .character-card {
     padding: 1vh 1vw;
-    height: 95%;
+    height: 99%;
     width:100%;
     max-width: 100%;
     font-size: 1.6rem;
@@ -58,7 +58,7 @@
   .name {
     width: 100%;
     letter-spacing: 0.08em;
-    font-size: 100%;
+    font-size: 1rem;
   }
   
   .actions {
@@ -70,8 +70,8 @@
   }
   
   .avatar {
-    width: 85%;
-    height: 52.5%;
+    width: 75%;
+    height: 60%;
     object-fit: cover;
     object-position: center 1px;
     opacity: 0.8;
@@ -81,7 +81,7 @@
   }
   
   .health {
-    font-size: 1.25rem;
+    font-size: 1rem;
     font-weight: normal;
     width: 90%;
     margin: 5px 5%;
