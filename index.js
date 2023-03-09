@@ -27,7 +27,7 @@ function attack() {
                     monster = getNewMonster()
                     render()
                     isWaiting = false
-                },1500)
+                },1000)
             }
             else{
                 endGame()
@@ -52,7 +52,7 @@ function endGame() {
                     <p class="end-emoji">${endEmoji}</p>
                 </div>
                 `
-        }, 1500)
+        }, 1000)
 }
 
 document.getElementById("attack-button").addEventListener('click', attack)
