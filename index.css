@@ -34,6 +34,7 @@
     margin: 0;
     height: 76vh;
     width: 100%;
+    padding-bottom: 25px;
   }
   
   #hero, #monster {
