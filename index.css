@@ -22,7 +22,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     height: 100%;
     width: 100%;
   }
@@ -83,10 +82,10 @@
   }
   
   .health {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: normal;
     width: 90%;
-    margin: 10px 5%;
+    margin: 5px 5%;
     text-align: left;
     color: #ccc;
     letter-spacing: 0.03em;
@@ -166,7 +165,7 @@
 }
 
 button {
-    font-family: 'MedievalSharp', cursive;
+    font-family: 'MedievalSharp', cursive; 
     background-color: #fcc02a;
     border: 2px solid #963404;
     outline: none;
@@ -175,11 +174,11 @@ button {
     text-align: center;
     text-decoration: none;
     width: 95%;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     border-radius: 15px;
     cursor: pointer;
     color:#963404;
-    height:10vh;
+    height:7vh;
     margin: 0; 
     box-shadow: 0px 6px 10px -4px rgba(0,0,0,0.4);
 }
