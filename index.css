@@ -12,14 +12,9 @@
   }
   
   body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     font-family: 'MedievalSharp', cursive;
     color: #fff;
     background: radial-gradient(circle, rgba(51,43,55,1) 0%, rgba(51,43,55,1) 100%);
-    padding-top: 60px;
-    padding-bottom: 60px;
   }
   
   /* Main content */
@@ -28,7 +23,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: ;
     height: 100%;
     width: 100%;
   }
