@@ -18,6 +18,8 @@
     font-family: 'MedievalSharp', cursive;
     color: #fff;
     background: radial-gradient(circle, rgba(51,43,55,1) 0%, rgba(51,43,55,1) 100%);
+    padding-top: 60px;
+    padding-bottom: 60px;
   }
   
   /* Main content */
